@@ -1,4 +1,4 @@
-![](https://files.catbox.moe/3bjg2m.jpg)
+![](https://files.catbox.moe/ic3q0g.png)
 
 ___
 
