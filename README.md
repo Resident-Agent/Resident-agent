@@ -5,3 +5,5 @@ ___
 || - `"Where'd everyone go.. bingo?"`
 
 ___
+
+![](https://files.catbox.moe/yl6f6u.png)
