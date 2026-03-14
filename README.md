@@ -7,3 +7,9 @@ ___
 ___
 
 ![](https://files.catbox.moe/yl6f6u.png)
+
+https://residentxx.atabook.org/
+
+https://residentxx.straw.page
+
+https://pronouns.cc/@Resident-Collective
