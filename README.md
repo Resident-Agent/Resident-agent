@@ -10,9 +10,7 @@ ___
 <img src="https://files.catbox.moe/gvf2gt.jpg" style="width: 1000px; height: 100px;" alt="Description">
 
 ___
-https://pronouns.cc/@Resident-Collective
-
-https://residentxx.straw.page
+¹ [Strawpage](https://residentxx.straw.page) :: ² ‎[pronuns.cc](https://pronouns.cc/@Resident-Collective)
 
 ___
 
