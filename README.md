@@ -1,17 +1,12 @@
-![](https://files.catbox.moe/3q2qvl.jpg)
+<!-- Direct HTML with width and height in pixels -->
+<img src="https://files.catbox.moe/3q2qvl.jpg" width="1000" height="300" alt="Description">
 
 ___
 
-|| - `"Where'd everyone go.. bingo?"`
-
+`whered everyone go.. bingo?`
 ___
 
-![](https://files.catbox.moe/4v7dkc.jpg)
+<!-- Using inline styles -->
+<img src="https://files.catbox.moe/4v7dkc.jpg" style="width: 1000px; height: 300px;" alt="Description">
 
-https://residentxx.atabook.org/
-
-https://residentxx.straw.page
-
-https://pronouns.cc/@Resident-Collective
 ___
-
