@@ -1,4 +1,4 @@
-![](https://files.catbox.moe/ic3q0g.png)
+![](https://files.catbox.moe/3q2qvl.jpg)
 
 ___
 
@@ -6,7 +6,7 @@ ___
 
 ___
 
-![](https://files.catbox.moe/yl6f6u.png)
+![](https://files.catbox.moe/4v7dkc.jpg)
 
 https://residentxx.atabook.org/
 
