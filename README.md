@@ -1,3 +1,5 @@
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FResident-Agent%2FResident-agent&label=Veiwers&labelColor=%23888888&countColor=%23222222)
+
 <!-- Direct HTML with width and height in pixels -->
 <img src="https://files.catbox.moe/802zcl.jpg" width="1000" height="300" alt="Description">
 
