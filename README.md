@@ -5,7 +5,7 @@
 
 ___
 
-`whered everyone go.. bingo?`
+`'' what you need an autograph from gothams prince? ''`
 ___
 
 <!-- Using inline styles -->
