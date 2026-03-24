@@ -5,7 +5,7 @@
 
 ___
 
-`'' what you need an autograph from gothams prince? ''`
+`"..its never a goodbye until my heart stops.."`
 ___
 
 <!-- Using inline styles -->
